@@ -146,7 +146,9 @@ const EditUserData = ({ ...props }: userDataType) => {
 					</div>
 
 					<DialogFooter>
-						<Button type="submit">save</Button>
+						<Button type="submit" className="mt-3">
+							save
+						</Button>
 					</DialogFooter>
 				</form>
 			</DialogContent>

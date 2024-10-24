@@ -142,7 +142,9 @@ const AddNewUser = () => {
 						</div>
 					</div>
 					<DialogFooter>
-						<Button type="submit">Submit</Button>
+						<Button type="submit" className="mt-3">
+							Submit
+						</Button>
 					</DialogFooter>
 				</form>
 			</DialogContent>
